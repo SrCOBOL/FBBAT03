@@ -1,2 +1,2 @@
-FBBAT003 is a more simple version ( just to test waters XD)
-PROCESS-Sibs is the interesting one
+FBBAT003 - Simple Version
+PROCESS-Sibs - Program Itself
